@@ -12,6 +12,7 @@ public class Main {
 		
 		
 		System.out.println("이제 되니???????");
+		System.out.println("이건??");
 		
 		
 	}
